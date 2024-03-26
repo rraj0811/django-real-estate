@@ -1,4 +1,6 @@
 # npx gitignore python--command
+comp1.py
+comp2.py
 .vscode
 .idea
 .coverage*
